@@ -8927,3 +8927,83 @@ Highly polished cel shading, crisp lineart, soft glow effects, intricate clothin
 ```
 
 ***
+
+<a name="case-440"></a>
+
+### 例 440：手机拍摄 FaceTime 工作屏幕
+
+![手机拍摄 FaceTime 工作屏幕](../data/images/case440.jpg)
+
+**来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+
+**提示词：**
+
+```text
+Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+```
+
+***
+
+<a name="case-441"></a>
+
+### 例 441：WILDCAMP 巨型帐篷广告海报
+
+![WILDCAMP 巨型帐篷广告海报](../data/images/case441.jpg)
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
+
+**提示词：**
+
+```text
+An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
+```
+
+***
+
+<a name="case-442"></a>
+
+### 例 442：舒适发廊插画
+
+![舒适发廊插画](../data/images/case442.jpg)
+
+**来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
+
+**提示词：**
+
+```text
+A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
+```
+
+***
+
+<a name="case-443"></a>
+
+### 例 443：塔可爆炸拆解信息图
+
+![塔可爆炸拆解信息图](../data/images/case443.jpg)
+
+**来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
+
+**提示词：**
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of tacos.
+
+Top → Bottom structure:
+Fresh Lettuce (crisp green texture with natural folds)
+→ Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)
+→ Melted Cheese (smooth cheddar texture)
+→ Grilled Meat Filling (juicy seasoned meat detail)
+→ Taco Shell Base (crispy golden shell texture)
+Perfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.
+
+Add clean infographic text labels with thin pointer lines using these exact labels:
+“Lettuce”
+“Salsa”
+“Cheese”
+“Meat”
+“Shell”
+Ultra-detailed food textures, premium commercial aesthetic, 8K.
+```
+
+***

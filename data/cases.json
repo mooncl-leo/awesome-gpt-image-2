@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 436,
+  "totalCases": 440,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,96 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 443,
+      "title": "塔可爆炸拆解信息图",
+      "image": "/images/case443.jpg",
+      "imageAlt": "塔可爆炸拆解信息图",
+      "sourceLabel": "@Strength04_X",
+      "sourceUrl": "https://x.com/Strength04_X/status/2056018963084226866",
+      "prompt": "Create a hyper-realistic exploded vertical infographic composition of tacos.\n\nTop → Bottom structure:\nFresh Lettuce (crisp green texture with natural folds)\n→ Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)\n→ Melted Cheese (smooth cheddar texture)\n→ Grilled Meat Filling (juicy seasoned meat detail)\n→ Taco Shell Base (crispy golden shell texture)\nPerfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.\n\nAdd clean infographic text labels with thin pointer lines using these exact labels:\n“Lettuce”\n“Salsa”\n“Cheese”\n“Meat”\n“Shell”\nUltra-detailed food textures, premium commercial aesthetic, 8K.",
+      "promptPreview": "Create a hyper-realistic exploded vertical infographic composition of tacos. Top → Bottom structure: Fresh Lettuce (crisp green texture with natural folds) → Tomato & Salsa Layer (juicy diced tomatoes and salsa mix) → Me",
+      "category": "Charts & Infographics",
+      "styles": [
+        "UI",
+        "Infographic",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-443"
+    },
+    {
+      "id": 442,
+      "title": "舒适发廊插画",
+      "image": "/images/case442.jpg",
+      "imageAlt": "舒适发廊插画",
+      "sourceLabel": "@Sairah_0",
+      "sourceUrl": "https://x.com/Sairah_0/status/2056293543753503126",
+      "prompt": "A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.",
+      "promptPreview": "A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette ",
+      "category": "Illustration & Art",
+      "styles": [
+        "Illustration",
+        "Character"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-442"
+    },
+    {
+      "id": 441,
+      "title": "WILDCAMP 巨型帐篷广告海报",
+      "image": "/images/case441.jpg",
+      "imageAlt": "WILDCAMP 巨型帐篷广告海报",
+      "sourceLabel": "@Strength04_X",
+      "sourceUrl": "https://x.com/Strength04_X/status/2056258909334306897",
+      "prompt": "An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.",
+      "promptPreview": "An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clear",
+      "category": "Products & E-commerce",
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-441"
+    },
+    {
+      "id": 440,
+      "title": "手机拍摄 FaceTime 工作屏幕",
+      "image": "/images/case440.jpg",
+      "imageAlt": "手机拍摄 FaceTime 工作屏幕",
+      "sourceLabel": "@kaanakz",
+      "sourceUrl": "https://x.com/kaanakz/status/2056290465503171000",
+      "prompt": "Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled \"Design Critique\" and short visible bullets: \"layout\", \"lighting\", \"source links\", \"ship tomorrow\". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.",
+      "promptPreview": "Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of",
+      "category": "UI & Interfaces",
+      "styles": [
+        "UI",
+        "Realistic",
+        "3D"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-440"
+    },
     {
       "id": 439,
       "title": "赛博黑客角色设定表",
