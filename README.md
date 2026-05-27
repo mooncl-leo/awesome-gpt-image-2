@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-469-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-471-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
 </p>
 
@@ -50,7 +50,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-469](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-471](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
 - [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
@@ -85,7 +85,7 @@ Start with the case album to find a visual direction, then open the prompt templ
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>🛍️ Products & E-commerce</strong><br><sub>35 cases</sub></p>
+      <p><strong>🛍️ Products & E-commerce</strong><br><sub>36 cases</sub></p>
       <a href="docs/gallery.md#cat-product"><img src="data/images/category-covers/product.jpg" alt="Products and e-commerce" width="220"></a><br>
       <sub>Product shots, detail pages, packaging, selling points, and ads.</sub><br>
       <a href="docs/gallery.md#cat-product"><strong>View Cases</strong></a>
@@ -111,7 +111,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-photo"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🎨 Illustration & Art</strong><br><sub>47 cases</sub></p>
+      <p><strong>🎨 Illustration & Art</strong><br><sub>48 cases</sub></p>
       <a href="docs/gallery.md#cat-illustration"><img src="data/images/category-covers/illustration.jpg" alt="Illustration and art" width="220"></a><br>
       <sub>Illustration, art styles, material experiments, and decorative images.</sub><br>
       <a href="docs/gallery.md#cat-illustration"><strong>View Cases</strong></a>
@@ -153,14 +153,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 469 cases by gallery part and category.</sub><br>
+      <sub>Browse all 471 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-469"><img src="data/images/case469.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-471"><img src="data/images/case471.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-469"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-471"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -428,10 +428,16 @@ Only the latest collection and import run is shown here. Older imports stay in t
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <p><strong>Case 469: Guided Science Picture Book</strong></p>
-      <a href="docs/gallery-part-2.md#case-469"><img src="data/images/case469.jpg" alt="Guided science picture book" width="150"></a><br>
-      <sub>A reusable educational picture-book prompt for large scenes, route paths, cute guide IP, knowledge stops, and child-friendly infographic labels.</sub><br>
-      <a href="docs/gallery-part-2.md#case-469"><strong>View Case</strong></a>
+      <p><strong>Case 470: Local Shop Die-Cut Standee</strong></p>
+      <a href="docs/gallery-part-2.md#case-470"><img src="data/images/case470.jpg" alt="Local shop die-cut standee" width="150"></a><br>
+      <sub>A storefront POP prompt for die-cut standees with product hero visuals, offer labels, full outlines, and a clear base.</sub><br>
+      <a href="docs/gallery-part-2.md#case-470"><strong>View Case</strong></a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <p><strong>Case 471: Floral Kimono Anime Portrait</strong></p>
+      <a href="docs/gallery-part-2.md#case-471"><img src="data/images/case471.jpg" alt="Floral kimono anime portrait" width="150"></a><br>
+      <sub>A high-end digital illustration prompt for expressive anime portrait lighting, floral kimono detail, and dreamy warm color atmosphere.</sub><br>
+      <a href="docs/gallery-part-2.md#case-471"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>
